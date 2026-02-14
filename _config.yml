@@ -1,0 +1,23 @@
+theme: jekyll-theme-cayman
+title: 1C va Odoo Integratsiya Qo'llanmasi
+description: 1C:Enterprise va Odoo ERP tizimi o'rtasida HTTP servislari orqali integratsiya qilish bo'yicha to'liq qo'llanma
+show_downloads: false
+google_analytics: # Agar kerak bo'lsa, UA-XXXXXXXXX-X formatida kiriting
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+# Exclude files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
