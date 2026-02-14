@@ -84,8 +84,7 @@ Ushbu qo'llanma MIT litsenziyasi ostida tarqatiladi.
 
 ## Mualliflar
 
-- Sizning ismingiz
-- Hissa qo'shganlar
+- Bahrom Najmiddinov
 
 ---
 
